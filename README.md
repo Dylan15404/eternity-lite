@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/Dylan15404/eternity-lite/assets/17201719/202c53ce-4a02-4e2e-9dc9-e36549b44f47" alt="Markdownify" width="500"></a>
+  <img src="https://github.com/Dylan15404/eternity-lite/assets/17201719/202c53ce-4a02-4e2e-9dc9-e36549b44f47" alt="Markdownify" width="500"></a>
   <br>
   Eternity Lite
   <br>
